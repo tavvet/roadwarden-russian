@@ -1,0 +1,12 @@
+# Text extracted from the game: belongs to its developers, never publish it.
+data/strings.json
+work/
+
+# Build output (release archives go to GitHub Releases).
+dist/
+release/
+
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store

@@ -1,0 +1,1126 @@
+{
+ "641f6a6137": {
+  "ru": "Добротная верёвка",
+  "status": "draft"
+ },
+ "0f8ec6dd9f": {
+  "ru": "Обычная верёвка из пеньки.",
+  "status": "draft"
+ },
+ "ff7ee5f0cb": {
+  "ru": "Купить: 0 {image=coin}",
+  "status": "draft"
+ },
+ "f32465bcdf": {
+  "ru": "Ты получил верёвку.",
+  "status": "draft"
+ },
+ "1bdafa3bf1": {
+  "ru": "Беру её и отдаю\nвзамен немного еды",
+  "status": "draft"
+ },
+ "9dd39f063c": {
+  "ru": "Ты получил верёвку и отдал один паёк.",
+  "status": "draft"
+ },
+ "311968bd89": {
+  "ru": "Три сытные трапезы,\nкоторые не скоро испортятся.",
+  "status": "draft"
+ },
+ "5187b88e37": {
+  "ru": "Купить: 1 {image=coin}",
+  "status": "draft"
+ },
+ "2b45947cc8": {
+  "ru": "Ты купил три пайка.",
+  "status": "draft"
+ },
+ "44595a57a4": {
+  "ru": "{color=#6a6a6a}Купить: 1 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "2ff6aa710b": {
+  "ru": "{color=#6a6a6a}Можно купить ещё\nзавтра{/color}",
+  "status": "draft"
+ },
+ "f9d0e2aa93": {
+  "ru": "Лосиная шкура",
+  "status": "draft"
+ },
+ "3e6ee6762f": {
+  "ru": "Отменный мех.\nЦенный товар.",
+  "status": "draft"
+ },
+ "ac408ed297": {
+  "ru": "Купить: [iason_shop_furprice_base] {image=coin}",
+  "status": "draft"
+ },
+ "4741a3b62a": {
+  "ru": "Ты купил лосиную шкуру.",
+  "status": "draft"
+ },
+ "addcba897f": {
+  "ru": "{color=#6a6a6a}Купить: [iason_shop_furprice_base] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "df864f88a0": {
+  "ru": "Добротный арбалет\nс 5 болтами.",
+  "status": "draft"
+ },
+ "149837e088": {
+  "ru": "Купить: [iason_shop_crossbow_price] {image=coin}",
+  "status": "draft"
+ },
+ "ea7c6e106b": {
+  "ru": "Ты купил арбалет и связку болтов.",
+  "status": "draft"
+ },
+ "757bee875b": {
+  "ru": "{color=#6a6a6a}Купить: [iason_shop_crossbow_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "5dd0bdb5d4": {
+  "ru": "Ты не привык\nбиться со щитом.",
+  "status": "draft"
+ },
+ "dff0b3e12f": {
+  "ru": "Купить: [iason_shop_shield_price] {image=coin}",
+  "status": "draft"
+ },
+ "4b98bb0518": {
+  "ru": "Ты купил щит.",
+  "status": "draft"
+ },
+ "08ee4a74cc": {
+  "ru": "{color=#6a6a6a}У тебя уже\nесть такой{/color}",
+  "status": "draft"
+ },
+ "c601496318": {
+  "ru": "{color=#6a6a6a}Купить: [iason_shop_shield_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "1556b7b5f4": {
+  "ru": "Болты",
+  "status": "draft"
+ },
+ "871993c958": {
+  "ru": "Связка из 5 болтов\nдля арбалета.",
+  "status": "draft"
+ },
+ "6ffcfe8453": {
+  "ru": "Купить: 2 {image=coin}",
+  "status": "draft"
+ },
+ "5d8604c47c": {
+  "ru": "Ты купил связку болтов.",
+  "status": "draft"
+ },
+ "4fc9640bf0": {
+  "ru": "{color=#6a6a6a}Купить: 2 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "8524259969": {
+  "ru": "Коробочка мыла",
+  "status": "draft"
+ },
+ "0ba9607d5b": {
+  "ru": "Бальзам на дубовой основе. Если долго не смывать, жжёт кожу.",
+  "status": "draft"
+ },
+ "bac76825d8": {
+  "ru": "Ты кладёшь мыло в дорожный набор.",
+  "status": "draft"
+ },
+ "bd0e0dd456": {
+  "ru": "{color=#6a6a6a}Оружейник закрывает мастерскую.{/color}",
+  "status": "draft"
+ },
+ "66f2719dec": {
+  "ru": "Починка стёганки",
+  "status": "draft"
+ },
+ "656006a373": {
+  "ru": "Через 1 ч 30 мин твою стёганку частично перешьют и заново набьют.",
+  "status": "draft"
+ },
+ "a204a3c3be": {
+  "ru": "Оплатить: 2 {image=coin}",
+  "status": "draft"
+ },
+ "42456c423a": {
+  "ru": "{color=#6a6a6a}Оплатить: 2 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "106faad097": {
+  "ru": "Через час твою стёганку частично перешьют и заново набьют.",
+  "status": "draft"
+ },
+ "0dd589722b": {
+  "ru": "Оплатить: 1 {image=coin}",
+  "status": "draft"
+ },
+ "3b9466cc30": {
+  "ru": "{color=#6a6a6a}Оплатить: 1 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "0a0f077e96": {
+  "ru": "Через час твою стёганку аккуратно залатают.",
+  "status": "draft"
+ },
+ "0b0b5186d3": {
+  "ru": "Лучше этот оружейник твою стёганку уже не сделает.",
+  "status": "draft"
+ },
+ "46f382146f": {
+  "ru": "Твоя стёганка и так\nв лучшем виде.",
+  "status": "draft"
+ },
+ "d6178201ae": {
+  "ru": "Камешек, наполненный\nпневмой.\nПригодится чародеям.",
+  "status": "draft"
+ },
+ "67573f0680": {
+  "ru": "Купить: [eudocia_about_spiritrock_price] {image=coin}",
+  "status": "draft"
+ },
+ "0f4084b698": {
+  "ru": "Ты купил камень духа.",
+  "status": "draft"
+ },
+ "e9ab76d98f": {
+  "ru": "{color=#6a6a6a}Купить: [eudocia_about_spiritrock_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "de499f03af": {
+  "ru": "Должен откликаться\nна заколдованную почву.",
+  "status": "draft"
+ },
+ "b76c09af79": {
+  "ru": "Ты купил саженец.",
+  "status": "draft"
+ },
+ "dfd8f9b460": {
+  "ru": "{color=#6a6a6a}Бион закрывает лавку.{/color}",
+  "status": "draft"
+ },
+ "a6bfa61a2d": {
+  "ru": "Через час твою стёганку частично перешьют и заново набьют.",
+  "status": "draft"
+ },
+ "6c2901d676": {
+  "ru": "Оплатить: 3 {image=coin}",
+  "status": "draft"
+ },
+ "0338ffbd23": {
+  "ru": "{color=#6a6a6a}Оплатить: 3 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "9d1afcb64c": {
+  "ru": "Оплатить: 0 {image=coin}",
+  "status": "draft"
+ },
+ "c444a2e030": {
+  "ru": "Через полчаса твою стёганку частично перешьют и заново набьют.",
+  "status": "draft"
+ },
+ "3434ac9789": {
+  "ru": "Через полчаса твою стёганку аккуратно залатают.",
+  "status": "draft"
+ },
+ "9013715389": {
+  "ru": "Через полчаса твою стёганку\nаккуратно залатают.",
+  "status": "draft"
+ },
+ "ec710ef741": {
+  "ru": "Через полчаса твою стёганку точно подгонят по фигуре, и сражаться в ней станет удобнее.",
+  "status": "draft"
+ },
+ "9102c2abcb": {
+  "ru": "Починка одежды",
+  "status": "draft"
+ },
+ "8442b13553": {
+  "ru": "Через 15 мин твою одежду\nзалатают и приведут в порядок.",
+  "status": "draft"
+ },
+ "c78a6568e8": {
+  "ru": "{color=#6a6a6a}Твоя одежда\nв порядке{/color}",
+  "status": "draft"
+ },
+ "f55d861d65": {
+  "ru": "Укрепление стёганки",
+  "status": "draft"
+ },
+ "0b444022a5": {
+  "ru": "Через два часа часть\nнитей в ней заменят\nпаучьим шёлком.",
+  "status": "draft"
+ },
+ "4df38e73a4": {
+  "ru": "Оплатить: 20 {image=coin}",
+  "status": "draft"
+ },
+ "1b90f1b715": {
+  "ru": "{color=#6a6a6a}Оплатить: 20 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "fe7abff775": {
+  "ru": "Предложить\nпаучий шёлк",
+  "status": "draft"
+ },
+ "ae45ba096a": {
+  "ru": "{color=#6a6a6a}Принеси свой шёлк,\nи выйдет дешевле{/color}",
+  "status": "draft"
+ },
+ "66b80270ed": {
+  "ru": "В каждый наряд входят обувь, штаны, пояс и украшения.",
+  "status": "draft"
+ },
+ "231eecdc4d": {
+  "ru": "Под стать богатому\nгородскому чиновнику.\nРабота займёт день.",
+  "status": "draft"
+ },
+ "f9a5f7d213": {
+  "ru": "Оплатить: [howlersdell_bion_shop_clothes_price1] {image=coin}",
+  "status": "draft"
+ },
+ "749f703434": {
+  "ru": "{color=#6a6a6a}Оплатить: [howlersdell_bion_shop_clothes_price1] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "6f77d99f86": {
+  "ru": "В нём ты будешь\nвыглядеть как купец.\nРабота займёт два дня.",
+  "status": "draft"
+ },
+ "266d6be777": {
+  "ru": "Оплатить: [howlersdell_bion_shop_clothes_price2] {image=coin}",
+  "status": "draft"
+ },
+ "505fe4990e": {
+  "ru": "{color=#6a6a6a}Оплатить: [howlersdell_bion_shop_clothes_price2] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "3c08124192": {
+  "ru": "Для светского льва\nили дипломата.\nРабота займёт два дня.",
+  "status": "draft"
+ },
+ "a2ac5847a2": {
+  "ru": "Оплатить: [howlersdell_bion_shop_clothes_price3] {image=coin}",
+  "status": "draft"
+ },
+ "0c24449dd8": {
+  "ru": "{color=#6a6a6a}Оплатить: [howlersdell_bion_shop_clothes_price3] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "66fefec8a7": {
+  "ru": "{color=#6a6a6a}Больше у Акакиоса ничего нет.{/color}",
+  "status": "draft"
+ },
+ "25050a5d8f": {
+  "ru": "Только что сорванный\nоранжевый цветок\nс листьями.",
+  "status": "draft"
+ },
+ "fce6b31f9e": {
+  "ru": "Купить: 3 {image=coin}",
+  "status": "draft"
+ },
+ "8add1b5155": {
+  "ru": "Ты купил змеиную приманку.",
+  "status": "draft"
+ },
+ "0857890b8e": {
+  "ru": "Ты положил змеиную приманку в мешочек с ингредиентами.",
+  "status": "draft"
+ },
+ "a10b2fc11a": {
+  "ru": "{color=#6a6a6a}Купить: 3 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "185145b2e8": {
+  "ru": "Примитивный,\nно удобный.",
+  "status": "draft"
+ },
+ "4bfefcb57e": {
+  "ru": "Купить: [akakios_shop_lantern_price_base] {image=coin}",
+  "status": "draft"
+ },
+ "0c54ab74ce": {
+  "ru": "Ты купил деревянный фонарь.",
+  "status": "draft"
+ },
+ "f53d36504a": {
+  "ru": "{color=#6a6a6a}Купить: [akakios_shop_lantern_price_base] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "b97d544c20": {
+  "ru": "Льняное полотно",
+  "status": "draft"
+ },
+ "38d6f5991d": {
+  "ru": "Стопка льняных полотен.\nЦенный товар.",
+  "status": "draft"
+ },
+ "0f38b9cfee": {
+  "ru": "Купить: [akakios_shop_linen_price] {image=coin}",
+  "status": "draft"
+ },
+ "8523a0e578": {
+  "ru": "Ты купил кипу льняного полотна.",
+  "status": "draft"
+ },
+ "3e0098cc77": {
+  "ru": "{color=#6a6a6a}Купить: [akakios_shop_linen_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "5a71c237f6": {
+  "ru": "Новый боевой топор",
+  "status": "draft"
+ },
+ "35446ffa15": {
+  "ru": "Лёгкий острый топор\nсо стальным лезвием.",
+  "status": "draft"
+ },
+ "f7132278ca": {
+  "ru": "Купить: [akakios_shop_axe_price] {image=coin}",
+  "status": "draft"
+ },
+ "773446c0d9": {
+  "ru": "Ты купил топор.",
+  "status": "draft"
+ },
+ "193f366824": {
+  "ru": "{color=#6a6a6a}Купить: [akakios_shop_axe_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "f35967e58e": {
+  "ru": "Целебное зелье",
+  "status": "draft"
+ },
+ "038be5269b": {
+  "ru": "Зелье, которое ты\nпродал {color=#f6d6bd}Акакиосу{/color}.",
+  "status": "draft"
+ },
+ "aa722ff96f": {
+  "ru": "Купить: 5 {image=coin}",
+  "status": "draft"
+ },
+ "337501a28e": {
+  "ru": "Ты выкупил зелье обратно.",
+  "status": "draft"
+ },
+ "3306724428": {
+  "ru": "{color=#6a6a6a}Купить: 5 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "205f4d30a4": {
+  "ru": "Две сытные трапезы,\nкоторые не скоро испортятся.",
+  "status": "draft"
+ },
+ "5df1daa96d": {
+  "ru": "Ты купил два пайка.",
+  "status": "draft"
+ },
+ "1a35087d89": {
+  "ru": "Баня и ужин",
+  "status": "draft"
+ },
+ "32188a8a6a": {
+  "ru": "Через час тебя накормят до отвала, хорошенько вымоют и постирают одежду.",
+  "status": "draft"
+ },
+ "aa9b857cbe": {
+  "ru": "{color=#6a6a6a}Тебе это не нужно{/color}",
+  "status": "draft"
+ },
+ "c2395c89b5": {
+  "ru": "Всё, чтобы\nзубы были чистыми.",
+  "status": "draft"
+ },
+ "705539b5bf": {
+  "ru": "Ты кладёшь набор для чистки зубов в дорожное снаряжение.",
+  "status": "draft"
+ },
+ "933d120fb0": {
+  "ru": "Целительное касание",
+  "status": "draft"
+ },
+ "60026240ef": {
+  "ru": "Твою оболочку укрепит\n{i}дружественный дух{/i}.",
+  "status": "draft"
+ },
+ "b6501e59bd": {
+  "ru": "Попросить исцеления",
+  "status": "draft"
+ },
+ "fc0bea0268": {
+  "ru": "Твою оболочку исцелили.",
+  "status": "draft"
+ },
+ "e6afce0a94": {
+  "ru": "{color=#6a6a6a}Тебе не нужна\nсрочная помощь{/color}",
+  "status": "draft"
+ },
+ "7494f07423": {
+  "ru": "{color=#6a6a6a}Сегодня тебя\nуже исцеляли{/color}",
+  "status": "draft"
+ },
+ "6acfd7c576": {
+  "ru": "Свежая еда",
+  "status": "draft"
+ },
+ "1aa5f19ff9": {
+  "ru": "Четыре трапезы, оплаченные вперёд.\nОсталась 1 трапеза.",
+  "status": "draft"
+ },
+ "c039893b93": {
+  "ru": "Четыре трапезы, оплаченные вперёд.\nОсталось трапез: [foggy_food_meals_available].",
+  "status": "draft"
+ },
+ "69db9b5c0a": {
+  "ru": "Четыре трапезы, оплаченные вперёд.\nОсталась 1 трапеза, и раз в день можно есть бесплатно.",
+  "status": "draft"
+ },
+ "1b4b1a90b1": {
+  "ru": "Четыре трапезы, оплаченные вперёд.\nОсталось трапез: [foggy_food_meals_available], и раз в день можно есть бесплатно.",
+  "status": "draft"
+ },
+ "0e8bada30d": {
+  "ru": "Ты заплатил за четыре трапезы вперёд.",
+  "status": "draft"
+ },
+ "41fe658fcf": {
+  "ru": "Железный лом",
+  "status": "draft"
+ },
+ "4074c8c831": {
+  "ru": "Всякие обрезки\nжелеза и стали.",
+  "status": "draft"
+ },
+ "b80be794fd": {
+  "ru": "Купить: [foggy_shop_ironscraps_price] {image=coin}",
+  "status": "draft"
+ },
+ "100f9ee8cf": {
+  "ru": "Ты купил железный лом.",
+  "status": "draft"
+ },
+ "9434613fda": {
+  "ru": "{color=#6a6a6a}Купить: [foggy_shop_ironscraps_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "69cb7f2a6c": {
+  "ru": "Его магия согревает оболочку и помогает\nуснуть в любых условиях.",
+  "status": "draft"
+ },
+ "7711176dc3": {
+  "ru": "Купить: [foggy_shop_asterionscloak_price] {image=coin}",
+  "status": "draft"
+ },
+ "e2808f1a7c": {
+  "ru": "Ты купил волшебный плащ.",
+  "status": "draft"
+ },
+ "80da77e290": {
+  "ru": "{color=#6a6a6a}Купить: [foggy_shop_asterionscloak_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "f5b0e052a4": {
+  "ru": "Крепкий яблочный напиток.\nИспортится до зимы.",
+  "status": "draft"
+ },
+ "5ac879eec0": {
+  "ru": "Купить: 4 {image=coin}",
+  "status": "draft"
+ },
+ "f4c6a0c61a": {
+  "ru": "Ты купил бочонок сидра.",
+  "status": "draft"
+ },
+ "77c453d9df": {
+  "ru": "{color=#6a6a6a}Купить: 4 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "a3814d89f5": {
+  "ru": "Она хрустит костяшками пальцев.",
+  "status": "draft"
+ },
+ "05deee5dec": {
+  "ru": "Корзина, сплетённая из лозы\nи ивовых прутьев.",
+  "status": "draft"
+ },
+ "dae8f90cf8": {
+  "ru": "Ты купил вершу.",
+  "status": "draft"
+ },
+ "be753df177": {
+  "ru": "{color=#6a6a6a}Унести можно\nтолько одну{/color}",
+  "status": "draft"
+ },
+ "16a02f7a12": {
+  "ru": "Сытное блюдо со специями,\nприготовленное с душой.\nСейчас их у тебя: [item_chicken].",
+  "status": "draft"
+ },
+ "4fb9e11a0f": {
+  "ru": "Ты купил жареную курицу.",
+  "status": "draft"
+ },
+ "27e65735d6": {
+  "ru": "{color=#6a6a6a}Следующую можно\nкупить завтра{/color}",
+  "status": "draft"
+ },
+ "bd1c5c7d67": {
+  "ru": "{color=#6a6a6a}Больше у Татия ничего нет.{/color}",
+  "status": "draft"
+ },
+ "77b7dfa523": {
+  "ru": "Купить: [galerocks_tatius_shop_shield_price] {image=coin}",
+  "status": "draft"
+ },
+ "f13cbea5e1": {
+  "ru": "{color=#6a6a6a}Купить: [galerocks_tatius_shop_shield_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "9c024a8f4e": {
+  "ru": "Сытный ужин",
+  "status": "draft"
+ },
+ "2039b042cb": {
+  "ru": "Горячая еда,\nкоторую съешь на месте.",
+  "status": "draft"
+ },
+ "1a15c610b5": {
+  "ru": "Отработать 2 часа",
+  "status": "draft"
+ },
+ "1663efbf38": {
+  "ru": "{color=#6a6a6a}Для работы уже поздно{/color}",
+  "status": "draft"
+ },
+ "477e8e43ae": {
+  "ru": "{color=#6a6a6a}Ты не голоден{/color}",
+  "status": "draft"
+ },
+ "90e85cab31": {
+  "ru": "Паёк",
+  "status": "draft"
+ },
+ "0dbd704dcb": {
+  "ru": "Сытная трапеза,\nкоторая не скоро испортится.",
+  "status": "draft"
+ },
+ "6ea7ff7b81": {
+  "ru": "Обмен: дикие растения\n(пучков: [galerocks_porcia_wildplants_price])",
+  "status": "draft"
+ },
+ "2c7f1d67e3": {
+  "ru": "Ты выменял паёк.",
+  "status": "draft"
+ },
+ "2447893f55": {
+  "ru": "{color=#6a6a6a}Обмен: дикие растения\n(пучков: [galerocks_porcia_wildplants_price]){/color}",
+  "status": "draft"
+ },
+ "3f2d9cb785": {
+  "ru": "Баня и стирка",
+  "status": "draft"
+ },
+ "6d0c2358ac": {
+  "ru": "Тебя вымоют\nв лохани с водой.\n(Итог зависит\nот чистоты героя.)",
+  "status": "draft"
+ },
+ "dd9ca8af20": {
+  "ru": "{color=#6a6a6a}Оплатить: {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "e71f40470e": {
+  "ru": "{color=#6a6a6a}Тебе не нужно\nмыться{/color}",
+  "status": "draft"
+ },
+ "d3c64952ce": {
+  "ru": "Флакон духов",
+  "status": "draft"
+ },
+ "f39f770f1e": {
+  "ru": "Масло и другие снадобья, смешанные\nс тысячами цветочных лепестков.",
+  "status": "draft"
+ },
+ "d09c4260c1": {
+  "ru": "Купить: [galerocks_aquila_shop_perfume_price] {image=coin}",
+  "status": "draft"
+ },
+ "63c847eb46": {
+  "ru": "{color=#6a6a6a}Купить: [galerocks_aquila_shop_perfume_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "029f3447f5": {
+  "ru": "{color=#6a6a6a}Руфина закрывает лавку.{/color}",
+  "status": "draft"
+ },
+ "dd84b8e3ea": {
+  "ru": "Оплатить: бесплатная починка 1/[galerocks_armorer_free]",
+  "status": "draft"
+ },
+ "c5f75fc51f": {
+  "ru": "Лучше эта швея твою стёганку уже не сделает.",
+  "status": "draft"
+ },
+ "029a56b035": {
+  "ru": "Через час твою стёганку точно подгонят по фигуре, и сражаться в ней станет удобнее.",
+  "status": "draft"
+ },
+ "afbb201cd7": {
+  "ru": "Твоя стёганка\nи так в лучшем виде.",
+  "status": "draft"
+ },
+ "258a13a302": {
+  "ru": "Через 30 мин твою одежду\nзалатают и приведут в порядок.",
+  "status": "draft"
+ },
+ "8e8a473ac2": {
+  "ru": "Всё, что нужно для\nпочинки стёганки, —\nа это дело непростое.",
+  "status": "draft"
+ },
+ "156ed9c3c3": {
+  "ru": "Купить: [galerocks_rufina_shop_repairset_price] {image=coin}",
+  "status": "draft"
+ },
+ "dc6601ff40": {
+  "ru": "Ты купил ремонтный набор.",
+  "status": "draft"
+ },
+ "590e63f871": {
+  "ru": "{color=#6a6a6a}Купить: [galerocks_rufina_shop_repairset_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "d9f263134d": {
+  "ru": "Всё, что нужно,\nчтобы залатать\nпорванную одежду.",
+  "status": "draft"
+ },
+ "a3147285aa": {
+  "ru": "Купить: [galerocks_rufina_shop_sewingkit_price] {image=coin}",
+  "status": "draft"
+ },
+ "f3f9d4bc26": {
+  "ru": "Ты купил швейный набор.",
+  "status": "draft"
+ },
+ "96af1440d1": {
+  "ru": "{color=#6a6a6a}Купить: [galerocks_rufina_shop_sewingkit_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "188f8f6e57": {
+  "ru": "Крылатые песочные часы",
+  "status": "draft"
+ },
+ "3205f63327": {
+  "ru": "Подвеска в знак\nверности Творцу\nи его церквям.",
+  "status": "draft"
+ },
+ "ed08dcfae6": {
+  "ru": "Ты получил крылатые песочные часы.",
+  "status": "draft"
+ },
+ "308c18a80e": {
+  "ru": "Ты купил крылатые песочные часы.",
+  "status": "draft"
+ },
+ "970884ee9f": {
+  "ru": "{color=#6a6a6a}Больше у Тирса ничего нет.{/color}",
+  "status": "draft"
+ },
+ "6110308141": {
+  "ru": "Ядовитая жёлтая пыль,\nот которой растения «сохнут».",
+  "status": "draft"
+ },
+ "79a43e3ddf": {
+  "ru": "Купить: [thyrsus_shop_witheringdust_price] {image=coin}",
+  "status": "draft"
+ },
+ "2d5b8f6af1": {
+  "ru": "Ты купил иссушающую пыль.",
+  "status": "draft"
+ },
+ "bbda0d2fda": {
+  "ru": "{color=#6a6a6a}Купить: [thyrsus_shop_witheringdust_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "55aa2b3069": {
+  "ru": "Мазь от укусов",
+  "status": "draft"
+ },
+ "3cfce90d8d": {
+  "ru": "Банка мази, отпугивающей насекомых.",
+  "status": "draft"
+ },
+ "cb742f28ad": {
+  "ru": "Ты купил мазь от укусов.",
+  "status": "draft"
+ },
+ "c6c7e922aa": {
+  "ru": "Травяная мазь от насекомых",
+  "status": "draft"
+ },
+ "67565b3020": {
+  "ru": "Банка мази,\nубивающей насекомых.",
+  "status": "draft"
+ },
+ "8d9bb48ead": {
+  "ru": "Купить [thyrsus_shop_bugrepellent_price] {image=coin}",
+  "status": "draft"
+ },
+ "1fa5ee97e3": {
+  "ru": "Ты купил мазь от насекомых.",
+  "status": "draft"
+ },
+ "cf36d6063c": {
+  "ru": "{color=#6a6a6a}Купить: [thyrsus_shop_bugrepellent_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "146d9755a6": {
+  "ru": "Три связанные кости,\nчтобы использовать\nих как крюк-кошку.",
+  "status": "draft"
+ },
+ "300b9d0ae1": {
+  "ru": "Ты купил костяной крюк.",
+  "status": "draft"
+ },
+ "b0f35c54e9": {
+  "ru": "Ингредиент",
+  "status": "draft"
+ },
+ "2fbf23a613": {
+  "ru": "{color=#f6d6bd}Чёрный чистец{/color}",
+  "status": "draft"
+ },
+ "dcd1eeaee2": {
+  "ru": "{color=#f6d6bd}Болотная пузырчатка{/color}",
+  "status": "draft"
+ },
+ "ffda1a71bb": {
+  "ru": "{color=#f6d6bd}Толчёный базальт{/color}",
+  "status": "draft"
+ },
+ "3a26b669f0": {
+  "ru": "Пригодится для...",
+  "status": "draft"
+ },
+ "c970c3f033": {
+  "ru": "целебных зелий",
+  "status": "draft"
+ },
+ "6da167e8a6": {
+  "ru": "слепящего порошка",
+  "status": "draft"
+ },
+ "7ceca51fca": {
+  "ru": "Купить",
+  "status": "draft"
+ },
+ "c2e3ee7d6a": {
+  "ru": "Ты купил чёрный чистец.",
+  "status": "draft"
+ },
+ "2ff7cf53ba": {
+  "ru": "{color=#6a6a6a}Купить{/color}",
+  "status": "draft"
+ },
+ "9b626bbf19": {
+  "ru": "{color=#6a6a6a}распродано{/color}",
+  "status": "draft"
+ },
+ "922cbe4e54": {
+  "ru": "Ты купил болотную пузырчатку.",
+  "status": "draft"
+ },
+ "e4fea4f3c3": {
+  "ru": "Ты купил толчёный базальт.",
+  "status": "draft"
+ },
+ "1bd9421d39": {
+  "ru": "{color=#6a6a6a}Больше у Главкии ничего нет.{/color}",
+  "status": "draft"
+ },
+ "58b12f0018": {
+  "ru": "Ценные приправы, что разгоняют однообразие жизни.",
+  "status": "draft"
+ },
+ "974d76ea7c": {
+  "ru": "Купить: [glaucia_spices_price] {image=coin}",
+  "status": "draft"
+ },
+ "a58b2e5b62": {
+  "ru": "Ты купил специи.",
+  "status": "draft"
+ },
+ "0e1a233dad": {
+  "ru": "{color=#6a6a6a}Купить: [glaucia_spices_price] {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "00b7120ef3": {
+  "ru": "Драконий рог",
+  "status": "draft"
+ },
+ "1137541f34": {
+  "ru": "Если в него подуть, он ревёт, как исполинское чудище.",
+  "status": "draft"
+ },
+ "79b3c157ee": {
+  "ru": "Обмен",
+  "status": "draft"
+ },
+ "224d9dac9e": {
+  "ru": "{color=#6a6a6a}Обмен{/color}",
+  "status": "draft"
+ },
+ "18b36a51d3": {
+  "ru": "{color=#6a6a6a}У тебя нет ничего,\nчто племя хотело бы\nполучить взамен{/color}",
+  "status": "draft"
+ },
+ "ce08c60a53": {
+  "ru": "Продать 3 пайка\nза 1 {image=coin}",
+  "status": "draft"
+ },
+ "8f4753c3d3": {
+  "ru": "Ты продал 3 пайка.",
+  "status": "draft"
+ },
+ "1e1f64d900": {
+  "ru": "{color=#6a6a6a}Продать 3 пайка\nза 1 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "a08fdb56a8": {
+  "ru": "Продать 8 пучков\nза 1 {image=coin}",
+  "status": "draft"
+ },
+ "464d1da6d9": {
+  "ru": "Ты продал 8 пучков диких растений.",
+  "status": "draft"
+ },
+ "f44f3edd4c": {
+  "ru": "{color=#6a6a6a}Продать 8 пучков\nза 1 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "389a783b24": {
+  "ru": "Продать 1 курицу\nза 1 {image=coin}",
+  "status": "draft"
+ },
+ "cd28d6922e": {
+  "ru": "Ты продал жареную курицу.",
+  "status": "draft"
+ },
+ "e5d421e933": {
+  "ru": "{color=#6a6a6a}Продать 1 курицу\nза 1 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "ca8fc2a654": {
+  "ru": "Продать 2 рыбы\nза 1 {image=coin}",
+  "status": "draft"
+ },
+ "6096268126": {
+  "ru": "Ты продал 2 жареные рыбы.",
+  "status": "draft"
+ },
+ "372864456e": {
+  "ru": "{color=#6a6a6a}Продать 2 рыбы\nза 1 {image=coingray}{/color}",
+  "status": "draft"
+ },
+ "3ca39d1769": {
+  "ru": "Сейчас торговать нельзя.",
+  "status": "draft"
+ },
+ "1a42b86f01": {
+  "ru": "Сырая рыба",
+  "status": "draft"
+ },
+ "bb301809c4": {
+  "ru": "Костяная серьга",
+  "status": "draft"
+ },
+ "5b1da1bc00": {
+  "ru": "Костяное кольцо",
+  "status": "draft"
+ },
+ "58a9c177a4": {
+  "ru": "Стержень голема",
+  "status": "draft"
+ },
+ "f598cce64b": {
+  "ru": "Заячья шкурка",
+  "status": "draft"
+ },
+ "f8f0cc7a56": {
+  "ru": "Тюленья шкура",
+  "status": "draft"
+ },
+ "06c373ab19": {
+  "ru": "Когти драконыша",
+  "status": "draft"
+ },
+ "c73829aaac": {
+  "ru": "Болты",
+  "status": "draft"
+ },
+ "8205aa5733": {
+  "ru": "Большая доставка",
+  "status": "draft"
+ },
+ "72e2d5d943": {
+  "ru": "Селянам нужно доставить несколько бочек Туманке и задержаться на пару часов, чтобы расставить ловушки и починить обвалившийся кусок частокола.",
+  "status": "draft"
+ },
+ "957464a0f9": {
+  "ru": "Разведка",
+  "status": "draft"
+ },
+ "0f69c800a1": {
+  "ru": "Несколько охотников хотят разведать лес неподалёку, кишащий горгульями.",
+  "status": "draft"
+ },
+ "05cab050e3": {
+  "ru": "Смелые собиратели",
+  "status": "draft"
+ },
+ "0b8bbc5516": {
+  "ru": "Местные хотят поискать еду там, куда не совались уже несколько лет, с тех пор как в последний раз напали драконыши.",
+  "status": "draft"
+ },
+ "2bf0d3fe9c": {
+  "ru": "Охотничья вылазка",
+  "status": "draft"
+ },
+ "595ce2ee08": {
+  "ru": "Охотникам не помешает лишний клинок, особенно если их зажмут на обратном пути с добычей — или с раненым товарищем.",
+  "status": "draft"
+ },
+ "a2dbd1d300": {
+  "ru": "Недостающий ингредиент",
+  "status": "draft"
+ },
+ "f17077f110": {
+  "ru": "Какой-то зверь уничтожил все запасы редкой травы, что росла на поляне за деревней. Тебя просят найти несколько ростков в дальнем лесу.",
+  "status": "draft"
+ },
+ "a4f70b6c13": {
+  "ru": "Волчья стая",
+  "status": "draft"
+ },
+ "690373a937": {
+  "ru": "Охотникам нужно отогнать стаю серых волков, пока те не освоились в здешних краях.",
+  "status": "draft"
+ },
+ "6e66568583": {
+  "ru": "Охрана",
+  "status": "draft"
+ },
+ "73d98e2a90": {
+  "ru": "Один предприимчивый селянин хочет наведаться в другое поселение.",
+  "status": "draft"
+ },
+ "3ec4b52118": {
+  "ru": "Дозор на весь день",
+  "status": "draft"
+ },
+ "0aeb605c0c": {
+  "ru": "Тебя просят провести весь день в седле и оценить, насколько безопасно пройти пешком по северной и восточной дорогам.",
+  "status": "draft"
+ },
+ "0e224126cf": {
+  "ru": "На всякий случай",
+  "status": "draft"
+ },
+ "22b788abd2": {
+  "ru": "Местные надеются за несколько часов перевезти кое-что между Ручьями и Туманным Озером и подготовиться к осени.",
+  "status": "draft"
+ },
+ "d274ac76a8": {
+  "ru": "[mundanejob_fluff]\n\nРабота займёт весь день и может оказаться опасной.",
+  "status": "draft"
+ },
+ "24dac5dedb": {
+  "ru": "Работа за [creeks_mundanework_payment] {image=coin}",
+  "status": "draft"
+ },
+ "e73c6f8a0c": {
+  "ru": "Охрана побережья",
+  "status": "draft"
+ },
+ "26ff1ed219": {
+  "ru": "Ты будешь присматривать за уловом, снастями и отдыхающими рыбаками.\n\nРабота займёт весь день и может оказаться опасной, но в таком случае ты получишь лишнюю драконью кость.",
+  "status": "draft"
+ },
+ "6e05a2cb05": {
+  "ru": "Работа за 2 или 3 {image=coin}",
+  "status": "draft"
+ },
+ "3d665a404a": {
+  "ru": "Услуга для Элпис",
+  "status": "draft"
+ },
+ "a5b41b07a2": {
+  "ru": "Тебе нужно отправиться в лесной сад и помочь одному из друидов. Кто знает, с чем.",
+  "status": "draft"
+ },
+ "a18bdc08f8": {
+  "ru": "Поиски трав",
+  "status": "draft"
+ },
+ "5320f6a1d6": {
+  "ru": "Ты присоединишься к стражникам и друидам, которые ищут полезные травы, и в случае чего увезёшь старейшин в безопасность на своём иноходце.",
+  "status": "draft"
+ },
+ "fe2ec2370d": {
+  "ru": "Ты будешь гонцом между несколькими группами охотников, которые засядут в разных частях болот, неподалёку от южной дороги.",
+  "status": "draft"
+ },
+ "4cf307cba9": {
+  "ru": "Расчистка троп",
+  "status": "draft"
+ },
+ "4119d8100d": {
+  "ru": "Ты присоединишься к стражникам и работникам, которые расчищают тропы от веток и прочих завалов, и будешь держать связь между ними и деревней.",
+  "status": "draft"
+ },
+ "777b709185": {
+  "ru": "Охрана полей",
+  "status": "draft"
+ },
+ "edf98e2a20": {
+  "ru": "Звери разорили край здешних полей. Ты будешь в седле помогать стражникам и работникам присматривать за округой, пока те ставят новую изгородь.",
+  "status": "draft"
+ },
+ "96e313d854": {
+  "ru": "Сопровождение собирателей",
+  "status": "draft"
+ },
+ "e8a646a96c": {
+  "ru": "Группа работников отправляется в лесной сад за древесиной и грибами. Ты поедешь впереди и будешь высматривать опасность.",
+  "status": "draft"
+ },
+ "23190bea49": {
+  "ru": "Дозор до побережья",
+  "status": "draft"
+ },
+ "da6744493d": {
+  "ru": "Теперь, когда дорога к побережью свободна, тебя просят убедиться, что на ней более-менее безопасно.",
+  "status": "draft"
+ },
+ "d4c52a2ae9": {
+  "ru": "[mundanejob_fluff]\n\nРабота займёт несколько часов, если не больше.",
+  "status": "draft"
+ },
+ "86afad6255": {
+  "ru": "[mundanejob_fluff]\n\nРабота займёт примерно полдня и может оказаться опасной.",
+  "status": "draft"
+ },
+ "4fce34fa27": {
+  "ru": "Работа для Элпис",
+  "status": "draft"
+ },
+ "94e7b75746": {
+  "ru": "Работа за [howlersdell_mundanework_payment_total] {image=coin}",
+  "status": "draft"
+ },
+ "5d69466fde": {
+  "ru": "Сейчас работать нельзя.",
+  "status": "draft"
+ }
+}
