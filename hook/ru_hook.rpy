@@ -66,6 +66,8 @@ init -1500 python in ru:
     _hit = []
     _latin = re.compile(r"[A-Za-z]{2,}")
     _cyr = re.compile(u"[Ѐ-ӿ]")
+    _letters = re.compile(r"[^\W\d_]", re.U)
+    _markup = re.compile(r"\{[^{}]*\}|\[[^\[\]]*\]")
 
     def _log(line):
         if _debug_path:
@@ -87,6 +89,10 @@ init -1500 python in ru:
             _log(u"### first hit: " + k + u" -> " + r)
         if r is None:
             r = _apply_pattern(k)
+            if r is None and (u"\u201c" in k or u"\u201d" in k) and not _letters.search(_markup.sub(u"", k)):
+                # Letterless glue templates ('[custom1]{color=…}[price]{/color}.”'):
+                # only the English quotes need changing.
+                r = k.replace(u"\u201c", u"\u00ab").replace(u"\u201d", u"\u00bb")
             if r is None:
                 if _debug_path and k not in _missing and _latin.search(k) and not _cyr.search(k):
                     _missing.add(k)
